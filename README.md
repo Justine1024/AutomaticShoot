@@ -6,6 +6,7 @@ Shift+o:开启程序
 请注意，提供的脚本是一个基本示例，演示了如何在自动热键中设置热键和操作。
 
 另外，请记住，在游戏或其他应用程序中自动执行射击操作可能违反其使用条款，因此请负责任地使用此类脚本，并且仅在适当的情况下使用。
+
 Save and Run: Save the script and double-click on it to run. It will run as an AutoHotkey script.
 
 Using the Hotkeys:
